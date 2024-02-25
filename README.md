@@ -10,7 +10,6 @@ Key Features:
 
 Technologies Used:
 - Python for machine learning model development and data processing.
-- Flask framework for building the web application.
-- HTML/CSS/JavaScript for frontend development.
+- Streamlit for frontend development.
 - Pandas, NumPy, and Scikit-learn for data manipulation and machine learning.
 - Plotly and Matplotlib for data visualization.
